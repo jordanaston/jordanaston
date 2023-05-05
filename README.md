@@ -1,4 +1,4 @@
-## Hi 👋 I'm Jordan
+# Hi 👋 I'm Jordan
 
 ### Software Developer from Brisbane 
 
