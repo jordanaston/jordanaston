@@ -7,4 +7,5 @@ Software Developer from Brisbane
 - 💬 Ask me about Python, Flask
 - 📫 How to reach me: jordanaston93@gmail.com
 
-Connect: https://www.linkedin.com/in/jordan-aston-164aab178/
+Connect: [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/jordan-aston-164aab178/)
+
