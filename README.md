@@ -3,7 +3,7 @@
 ### Software Developer from Brisbane 
 
 - 🌱 I’m currently learning MERN stack, Bootstrap and Tailwind
-- 💬 Ask me about Python, Flask
+- 💬 Ask me about Python, Javascript, React
 - 📫 How to reach me: jordanaston93@gmail.com
 
 ### Connect with me:
