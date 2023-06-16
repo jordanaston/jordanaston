@@ -4,8 +4,6 @@
 
 - 🌱  I’m currently learning MERN stack
 - 💬  Ask me about Python, Javascript, React
-- 📫  How to reach me: jordanaston93@gmail.com
-- 💻  [jordanaston.io](http://jordanaston.io)
 
 ### Connect with me:
 
