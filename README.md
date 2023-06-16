@@ -1,6 +1,6 @@
 # Hi 👋 I'm Jordan
 
-### I'm an emerging developer from Brisbane, Australia who loves building dynamic web applications. 
+#### I'm a developer from Brisbane, Australia, who loves building dynamic web applications. 
 
 - 🌱  I’m currently learning MERN stack
 - 💬  Ask me about Python, Javascript, React
@@ -25,6 +25,8 @@
 [<img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="48" height="48">](https://tailwindcss.com/)
 [<img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="48" height="48">](https://sass-lang.com/)
 [<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" height="48">](https://git-scm.com/)
+
+
 
 <!-- [<img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="48" height="48">](https://www.adobe.com/products/photoshop.html) -->
 <!-- [<img src="https://user-images.githubusercontent.com/91400430/237031016-c0ec1c59-7444-4e5a-862a-1e7e76ba4595.png" alt="Bootstrap" width="41" height="41">](https://getbootstrap.com/) -->
