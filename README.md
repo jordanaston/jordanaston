@@ -1,6 +1,6 @@
 # Hi 👋 I'm Jordan
 
-### Software Developer from Brisbane 
+### I'm an emerging developer from Brisbane, Australia who loves building dynamic web applications. 
 
 - 🌱  I’m currently learning MERN stack
 - 💬  Ask me about Python, Javascript, React
