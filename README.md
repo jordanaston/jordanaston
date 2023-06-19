@@ -1,6 +1,6 @@
 # Hi 👋 I'm Jordan
 
-#### I'm a developer from Brisbane, Australia, who loves building dynamic web applications. 
+#### I'm a developer from Brisbane, Australia, passionate about building dynamic web applications. 
 
 - 🌱  I’m currently learning MERN stack
 - 💬  Ask me about Python, Javascript, React
