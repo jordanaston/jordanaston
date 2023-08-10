@@ -1,6 +1,7 @@
-# Hi 👋 I'm Jordan
 
-#### I'm a developer from Brisbane, Australia, passionate about building dynamic web applications. 
+# ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=92b3f3&delay=100&duration=5000&lines=Hi+👋+I'm+Jordan!;Full+stack+dev+from+Brisbane,+Australia.;I+love+building+web+apps.;Let's+collab!+✨)
+
+###
 
 - 💻  I’m currently sharpening my skills with the MERN stack. Check out my latest project [Van Voyage](https://van-voyage.netlify.app/)
 - 💬  Ask me about Python, Javascript & React
