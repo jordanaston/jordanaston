@@ -9,7 +9,7 @@
 
 ###
 
-![jordanaston](https://komarev.com/ghpvc/?username=jordanaston)
+![Profile Views](https://komarev.com/ghpvc/?username=jordanaston)
 
 ###
 
