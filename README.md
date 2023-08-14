@@ -5,7 +5,7 @@
 
 - 💻  I’m currently sharpening my skills with the MERN stack. Check out my latest project [Van Voyage](https://van-voyage.netlify.app/)
 - 💬  Ask me about Python, Javascript & React
-- 🌱  Learning Typescript
+- 🌱  Learning Typescript, React Native & Next.js
 - 🌏  Check out my portfolio [here](https://jordanaston.io/)
 
 ###
