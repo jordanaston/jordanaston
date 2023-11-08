@@ -5,7 +5,7 @@
 
 - 💻  - Focusing on building web and mobile apps. Check out my latest project [NBM Forum](https://github.com/jordanaston/nbm-forum)
 - 💬  - Ask me about React, React Native & Typescript
-- 🌱  - Currently learning Next.js!
+- 🌱  - Currently learning Next.js & Solidity!
 - 🌏  - Check out my portfolio [here](https://jordanaston.io/)
 
 ###
