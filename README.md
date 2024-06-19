@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwind logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo" />
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/91400430/237024769-6969e015-e068-4b17-85d0-ab7bbf7282d4.svg" height="30" alt="postman logo" />
   <img width="12" />
