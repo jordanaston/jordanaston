@@ -3,9 +3,9 @@
 
 ###
 
-- 💻  - Focusing on building web and mobile apps. Check out my latest project [NBM Forum](https://github.com/jordanaston/nbm-forum)
+- 💻  - Focused on building web and mobile apps. Check out the projects I've been building over the last year [Pegs](https://www.localpegs.com.au/) 📱 [Repegs](https://www.repegs.com/) 📱
 - 💬  - Ask me about React, React Native & Typescript
-- 🌱  - Currently learning Next.js & Solidity
+- 🌱  - Currently boosting my UI skills with [shadcn/ui](https://ui.shadcn.com/)
 - 🌏  - Check out my portfolio [here](https://jordanaston.io/)
 
 ###
