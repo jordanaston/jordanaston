@@ -4,7 +4,7 @@
 ###
 
 - 💡  - Focused on building web and mobile apps.
-- 💻  - Check out the projects I've been building over the last year (2024) [Pegs (AUS)](https://www.localpegs.com.au/) 📱 [Repegs (USA)](https://www.repegs.com/) 📱 (2025) [Glue Network](https://www.glue.net/) 💻
+- 💻  - Check out the projects I've been building over the last year (2024/25) [Pegs (AUS)](https://www.localpegs.com.au/) 📱 [Repegs (USA)](https://www.repegs.com/) 📱 [Glue Network](https://www.glue.net/) 💻
 - 💬  - Ask me about React, React Native & Typescript
 - 🌱  - Currently boosting my UI skills with [shadcn/ui](https://ui.shadcn.com/)
 - 🌏  - Check out my portfolio [here](https://jordanaston.io/)
