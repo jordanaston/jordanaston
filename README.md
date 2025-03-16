@@ -17,8 +17,8 @@
 ###
 
 <div align="left">
-  <img width="12" />
   <img src="./nextjs-icon.svg" height="30" alt="next.js logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -50,8 +50,6 @@
   <img src="https://user-images.githubusercontent.com/91400430/237024769-6969e015-e068-4b17-85d0-ab7bbf7282d4.svg" height="30" alt="postman logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
 </div>
