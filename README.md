@@ -53,9 +53,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="30" alt="dynamodb logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vs code logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite code logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="30" alt="vitest code logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
   <img width="12" />
