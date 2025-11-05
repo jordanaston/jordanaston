@@ -41,8 +41,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=reactquery" height="30" alt="react query logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
