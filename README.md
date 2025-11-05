@@ -12,10 +12,6 @@
 
 ###
 
-![Profile Views](https://komarev.com/ghpvc/?username=jordanaston)
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="next.js logo" />
   <img width="12" />
