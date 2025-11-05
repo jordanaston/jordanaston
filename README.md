@@ -56,8 +56,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=reactnative" height="30" alt="react native logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo" />
@@ -70,11 +68,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=lit" height="30" alt="lit logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=storybook" height="30" alt="storybook logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=framer" height="30" alt="framer motion logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="node.js logo" />
   <img width="12" />
@@ -107,10 +101,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jira" height="30" alt="jira logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=slack" height="30" alt="slack logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=notion" height="30" alt="notion logo" />
 </div>
