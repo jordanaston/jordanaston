@@ -41,9 +41,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" />
   <img width="12" />
@@ -51,9 +51,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vs code logo" />
   <img width="12" />
