@@ -3,12 +3,11 @@
 
 ###
 
-- 💡  - Focused on building web and mobile apps.
-- 👨‍💻  - Check out my latest personal project [Post Apocalypse Trade Hub](https://post-apocalypse-trade-hub.vercel.app/trade-hub/) 
-- 💻  - Check out the projects I worked on at [Labrys](https://labrys.io/) (2024/25) [Pegs (AUS)](https://www.localpegs.com.au/) 📱 [Repegs (USA)](https://www.repegs.com/) 📱 [Glue Network](https://www.glue.net/) 💻
+- 💡  - Focused on building web and mobile applications.
+- 💻  - Projects I worked on at [Labrys](https://labrys.io/) (2024/25) -> [Pegs (AUS)](https://www.localpegs.com.au/) / [Repegs (USA)](https://www.repegs.com/) / [Glue Network](https://www.glue.net/) 
 - 💬  - Ask me about Next.js, React, React Native & Typescript
 - 🌱  - Currently boosting my UI skills with [shadcn/ui](https://ui.shadcn.com/)
-- 🌏  - Check out my portfolio [here](https://jordanaston.io/)
+- 🌏  - [Portfolio](https://jordanaston.io/)
 
 ###
 
